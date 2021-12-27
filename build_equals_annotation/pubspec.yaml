@@ -1,0 +1,12 @@
+name: build_equals_annotation
+version: 0.1.0-dev
+author: Kevin Moore <kevmoo@google.com>
+description: >-
+  TODO!
+homepage: https://github.com/kevmoo/build_equals
+
+environment:
+  sdk: '>=2.9.0 <3.0.0'
+
+dependencies:
+  collection: ^1.14.0
